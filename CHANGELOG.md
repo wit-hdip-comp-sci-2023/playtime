@@ -1,5 +1,12 @@
 # Playtime Changelog
 
+## version 0.6.0
+
+- refactor tests in groups
+- introduce simple user API
+- develop tests for API
+- incorporate Boom for exception handling
+
 ## version 0.5.0
 
 - develop mongo stores for user, playlist and track
