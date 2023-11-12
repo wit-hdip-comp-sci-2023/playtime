@@ -1,5 +1,12 @@
 # Playtime Changelog
 
+## version 0.5.0
+
+- develop mongo stores for user, playlist and track
+- install mongoose component
+- introduce playlist store tests
+- complete user mem store (fixing test failures)
+
 ## version 0.4.0
 
 - create test fixtures
