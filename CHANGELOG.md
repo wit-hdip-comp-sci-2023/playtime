@@ -1,5 +1,11 @@
 # Playtime Changelog
 
+## version 0.7.0
+
+- introduce Playlist test interface
+- refactor tests to use skeleton
+- incorporate nodemon to launch dev server
+
 ## version 0.6.0
 
 - refactor tests in groups
