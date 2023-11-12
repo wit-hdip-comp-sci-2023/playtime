@@ -1,5 +1,12 @@
 # Playtime Changelog
 
+## version 0.8.0
+
+- support static assets via inert plugin
+- introduce the swagger support
+- enhance user API to generate Swagger documentation
+- include output validation on user API
+
 ## version 0.7.0
 
 - introduce Playlist test interface

@@ -8,7 +8,7 @@ suite("Track Model tests", () => {
   let beethovenList = null;
 
   setup(async () => {
-    await db.init("mongo");
+    db.init("mongo");
     await db.playlistStore.deleteAllPlaylists();
     await db.trackStore.deleteAllTracks();
     beethovenList = await db.playlistStore.addPlaylist(beethoven);
